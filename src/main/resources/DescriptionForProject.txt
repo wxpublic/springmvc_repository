@@ -1,0 +1,15 @@
+1、本项目用到的技术：
+     springmvc的基本用法对一个表的增删改查；
+     springmvc+spring+hibernate 的整合
+     sitemesh网页通用模板的使用（第三方jar文件支持）
+     添加分页（第三方分页jar包支持）
+     springmvc的上传和下载 （多文件上传可以在印象笔记的springmvc注解笔记本中查阅相关资料）
+     springmvc的服务器端类属性验证
+     springmvc应用服务器端统一异常处理功能
+
+2、开发的环境
+     IDEA工具开发
+     Maven构建
+     使用mysql数据库 5.5.62
+     jdk1.8
+     jetty server插件
