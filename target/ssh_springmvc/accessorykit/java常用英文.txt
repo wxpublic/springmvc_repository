@@ -1,0 +1,188 @@
+JAVA常用英语单词列表
+第一章：		
+public['pʌblik] 公共的,公用的			
+static['stætik] 静的;静态的;静止的			
+void：[vɔid] 空的								
+main：[mein] 主要的 重要的			
+class：[klɑ:s] 类						
+system：['sistəm] 系统 方法			 
+out：[aut] 出现 出外				
+print：[print ] 打印					
+eclipse：[i'klips] java编程软件		
+
+第二章：		
+string：[striŋ] 字符串类型						
+double：['dʌbl] 双精度浮点型
+int：[int]  整型	
+char：[tʃɑ:] 字符型
+scanner：['skænə] 接收输入
+integer：['intidʒə]整数 整型
+type：[taip]类型
+
+第三章：
+
+Boolean：['bu:li:ən] 布尔类型真假二值
+true：[tru:]真
+false：[fɔ:ls]假 不正确的
+if：[if] 如果
+else：[els] 否则
+simple：['simpl] 简单 单一体
+
+第四章
+case：[keis]	实例 框 架
+default：[di'fɔ:lt]	或者
+switch：[switʃ] 判断语句
+break：[breik] 退出
+match：[mætʃ] 匹配
+assess：[ə'ses] 评估
+exception：[ik'sepʃən] 异常
+equals：['i:kwəls]判断两个字符串是否相等
+
+第五章
+
+while：[hwail] 循环
+index：['indeks]  下标
+bug：[bʌg]	缺陷
+debug：[di:'bʌg] 调试
+step：[step] 步骤
+error：['erə]  错误
+answer：['ɑ:nsə] 答案 回答
+
+第六章
+
+rate：[reit] 比率
+young：[jʌŋ] 年轻的
+schedule：['skedʒul] 表 清单
+negative：['negətiv] 否定的
+customer：['kʌstəmə] 顾客 买主
+birthday：['bə:θdei] 生日
+point：[pɔint] 分数 得分
+continue：[kən'tinju:] 进入到下一个循环
+return：[ri'tə:n] 返回（值）
+schedule：['skedʒul] 表 清单
+total：['təutl] 总人数,,全体的
+
+第七章
+
+array：[ə'rei] 数组
+length：[leŋθ]  长度
+sort：[sɔ:t] 分组 排序
+primitive：['primitiv] 初始的 简单的
+reference：['refərəns] 参照 证明 关系
+info：['infəu] 通知 报告 消息
+interface：['intəfeis] 接口
+
+第八章
+
+random：['rændəm] 随机数
+insert：[in'sə:t] 插入 嵌入
+compare：[kəm'pɛə] 比较 对照
+ignore：[ig'nɔ:] 忽视 不理会
+triangle：['traiæŋgl] 三角形
+invert：[in'və:t] 使转位 倒转
+diamond：['daiəmənd] 菱形
+password：['pɑ:swə:d] 密码 口令
+
+第九章：  
+
+change：[tʃeindʒ] 交换 互换
+password：['pɑ:swə:d] 口令 密码
+administrator：[əd'ministreitə] 管理员
+initial：[i'niʃəl] 开始的 最初的
+class：[klɑ:s] 类
+object：['ɔbdʒikt] 物体 对象
+return：[ri'tə:n 返回
+encapsulation：[in,kæpsju'leiʃən] 封装
+null：[nʌl] 空的
+
+第十章:
+
+person：['pə:sn] 人
+start：[stɑ:t] 开始
+menu：['menju:] 菜单
+login：[lɔg'in] 注册 登陆
+main：[mein] 主要的
+document：['dɔkjumənt] 文档
+display：[di'splei] 显示
+method：['meθəd] 方法 条理
+version：['və:ʃən] 译文 版本
+orient：['ɔ:riənt] 东方的
+parameter：[pə'ræmitɚ] 参数
+since：[sins] 自.....之后
+calculator：['kælkju,leitə] 计算
+
+第十一章：
+
+shape：[ʃeip] 形状
+ope：[əup] 开放
+hange：[tʃeindʒ] 交换 互换
+date：[deit] 日期 日子
+research：[ri'sə:tʃ] 研究 调查
+triangle：['traiæŋgl] 三角形
+practice：['præktis] 练习
+loan：[ləun] 借出 借给
+operator：['ɔpə,reitə] 操作员
+protect：[prə'tekt] 保卫 护卫
+private：['praivit] 私人的 私有的
+
+第十二章
+
+manage：['mænidʒ] 控制
+search：[sə:tʃ] 搜寻 查找
+upper：['ʌpə] 上面的
+
+第十三章
+
+equal：['i:kwəl] 相等的
+ignore：[ig'nɔ:] 忽视 驳回
+lower：['ləuə] 较低的 下部的
+last：[lɑ:st] 最后的
+trim：[trim] 切除 修改 缩减
+concatenate：[kɔn'kætineit] 使连锁 连成一串 使连接
+buffer：['bʌfə] 缓冲储存器
+final：['fainl] 最后的 最终的
+
+定义变量中常用的单词
+
+score：[skɔ:]成绩
+price：[prais]价钱
+test：[test]实验
+demo：['deməu]样本
+sum：[sʌm] 和
+num：[nʌm] 数字
+height：[hait] 身高
+weight ：[weit] 体重
+music：['mju:zik] 音乐
+computer：[kəm'pju:tə] 电脑
+student：['stju:dənt] 学生
+total：['təutl] 总计的,总括的,全体的
+max 最大的
+min 最小的
+avg 平均分
+Add 加
+Minus 减
+multiply：['mʌltiplai] 乘
+divide：[di'vaid] 除
+
+Monday：['mʌndei] 星期一
+Tuesday：['tju:zdi] 星期二
+Wednesday：['wenzdi] 星期三
+Thursday：['θə:zdi] 星期四
+Friday：['fraidi] 星期五
+Saturday：['sætədi] 星期六
+Sunday：['sʌndi] 星期日
+
+月份+缩写
+
+一月：January Jan.
+二月：February Feb.
+三月：March Mar.
+四月：April Apr.
+五月：May -
+六月：June -
+七月：July -
+八月：August Aug.
+九月：September Sept.
+十月：October Oct.
+十一月：November Nov.
+十二月：December Dec
